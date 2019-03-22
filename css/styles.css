@@ -3,9 +3,10 @@
   float:right;
   width: 20%;
   text-align: center;
-  border: 2px solid pink;
+  border: 2px solid #ce8ec2;
   height: 1000px;
   margin-left: 10px;
+  background-color: #d8b3d1;
 }
 
 .biglcolumn{
@@ -34,7 +35,9 @@
 
 #image{
   width: 20%;
-  margin-left: 350px;
+  margin-left: 20px;
+  float:left;
+
 }
 
 .date{
