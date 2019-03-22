@@ -1,11 +1,12 @@
 
 .smallcolumn{
   float:right;
-  width: 30%;
+  width: 20%;
   text-align: center;
   border: 2px solid pink;
   height: 1000px;
-  margin-left: 100px;
+  margin-left: 10px;
+
 
 }
 
@@ -13,13 +14,31 @@
 
 .biglcolumn{
   float:left;
-  width: 60%;
+  width: 80%;
   text-align: center;
-  margin-left:10px;
+  margin-left:2px;
 
 }
 
 .jumbotron{
-  width: 60%;
+  width: 80%;
   text-align: center;
+}
+
+.panel{
+  width: 100%;
+}
+
+.row{
+  width: 100%;
+}
+
+.info{
+  text-align: center;
+}
+
+#image{
+  width: 20%;
+  margin-left: 350px;
+
 }
