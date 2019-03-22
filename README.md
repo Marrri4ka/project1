@@ -6,20 +6,23 @@
 
 ## Description
 
-_This webpage provides information about projects I have created with active links to their GitHub pages sites; my background (education, job experience; my current interests._
+_This webpage provides information about Mariia Stashuk, her background (education and job experience).
+On the webpage you can find also a list of projects Mariia has created with active links to their GitHub pages sites.There is also information about Mariia's current interests._
+
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
+
+* _Clone this repositor https://github.com/Marrri4ka/project1.gity_*
 * _Open index.html with your browser of choice_
 
 ## Known Bugs
 
-none of the links are operational currently
+Some links are not operational currently
 
 ## Support and contact details
 
-If you have any questions or problems,please contact Mariia (mariiapopovych@gmail.com)
+If you have any questions or problems, please contact Mariia (mariiapopovych@gmail.com)
 
 ## Technologies Used
 
