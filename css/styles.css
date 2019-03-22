@@ -1,0 +1,11 @@
+
+.bigcolumn{
+  float:left;
+  width: 20%;
+}
+
+.smallcolumn{
+  float:left;
+  width: 60%;
+
+}
