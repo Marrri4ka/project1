@@ -46,3 +46,8 @@
 .date{
   color:red;
 }
+
+.info p {
+  text-align: center;
+  font-style: italic;
+}
