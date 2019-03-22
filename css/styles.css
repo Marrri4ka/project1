@@ -64,5 +64,10 @@
 }
 
 #girl1{
-  width: 100%;
+  width: 110%;
 }
+
+ .panel-body p{
+   width: 80%;
+   font-size: 80%;
+ }
