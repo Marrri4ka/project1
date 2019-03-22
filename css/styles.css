@@ -4,7 +4,7 @@
   width: 15%;
   text-align: center;
   border: 2px solid #ce8ec2;
-  height: 1000px;
+  height: 500px;
   margin-left: 10px;
   background-color: #d8b3d1;
 }
@@ -17,16 +17,17 @@
 }
 
 .jumbotron{
-  width: 77%;
+  width: 80%;
   text-align: center;
 }
 
 .panel{
-  width: 120%;
+  width: 100%;
 }
 
 .row{
-  width: 100%;
+  width: 110%;
+
 }
 
 .well{
@@ -59,12 +60,12 @@
 .activity{
   border: 1px solid black;
   background-color: white;
-  border-radius: 25px;
+  border-radius: 15px;
   text-align: center;
 }
 
 #girl1{
-  width: 110%;
+  width: 100%;
 }
 
  .panel-body p{
