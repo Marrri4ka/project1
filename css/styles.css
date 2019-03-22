@@ -1,16 +1,25 @@
 
-.bigcolumn{
-  float:left;
-  width: 20%;
+.smallcolumn{
+  float:right;
+  width: 30%;
   text-align: center;
   border: 2px solid pink;
   height: 1000px;
+  margin-left: 100px;
 
 }
 
-.smallcolumn{
-  float:left;
-  width: 70%;
-  text-align: center;
 
+
+.biglcolumn{
+  float:left;
+  width: 60%;
+  text-align: center;
+  margin-left:10px;
+
+}
+
+.jumbotron{
+  width: 60%;
+  text-align: center;
 }
