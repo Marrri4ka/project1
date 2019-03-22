@@ -20,14 +20,11 @@
   width: 80%;
   text-align: center;
 }
-
 .panel{
   width: 100%;
 }
-
 .row{
   width: 110%;
-
 }
 
 .well{
@@ -39,7 +36,6 @@
   width: 20%;
   margin-left: 20px;
   float:left;
-
 }
 
 .date{
@@ -68,12 +64,11 @@
   width: 100%;
 }
 
- .panel-body p{
+.panel-body p{
    width: 100%;
    font-size: 80%;
  }
 
  #hobbys{
-
-   font-size: 95%;
+ font-size: 125%;
  }
