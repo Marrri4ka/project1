@@ -53,3 +53,12 @@
 .hobbys{
   text-align: left;
 }
+.container{
+  background-color: #afaee5;
+}
+.bord{
+  border: 1px solid black;
+  background-color: white;
+  border-radius: 25px;
+  text-align: center;
+}
