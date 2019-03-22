@@ -4,7 +4,7 @@
   width: 15%;
   text-align: center;
   border: 2px solid #ce8ec2;
-  height: 500px;
+  height: 565px;
   margin-left: 10px;
   background-color: #d8b3d1;
 }
@@ -71,4 +71,8 @@
 
  #hobbys{
  font-size: 125%;
+ }
+
+ #move{
+   width:140%;
  }
