@@ -19,7 +19,7 @@ none of the links are operational currently
 
 ## Support and contact details
 
-_If you have any questions or problems,please contact Mariia (mariiapopovych@gmail.com)
+If you have any questions or problems,please contact Mariia (mariiapopovych@gmail.com)
 
 ## Technologies Used
 
