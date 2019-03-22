@@ -2,10 +2,15 @@
 .bigcolumn{
   float:left;
   width: 20%;
+  text-align: center;
+  border: 2px solid pink;
+  height: 1000px;
+
 }
 
 .smallcolumn{
   float:left;
-  width: 60%;
+  width: 70%;
+  text-align: center;
 
 }
