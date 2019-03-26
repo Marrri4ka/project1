@@ -14,7 +14,7 @@ On the webpage you can find also a list of projects Mariia has created with acti
 
 
 * Clone this repository https://github.com/Marrri4ka/project1.git
-* _Open index.html with your browser of choice_
+* _Open index.html with your browser of choice or open https://marrri4ka.github.io/project1/_
 
 ## Known Bugs
 
