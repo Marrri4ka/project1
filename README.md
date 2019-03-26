@@ -13,7 +13,7 @@ On the webpage you can find also a list of projects Mariia has created with acti
 ## Setup/Installation Requirements
 
 
-* _Clone this repositor https://github.com/Marrri4ka/project1.git
+* Clone this repository https://github.com/Marrri4ka/project1.git
 * _Open index.html with your browser of choice_
 
 ## Known Bugs
